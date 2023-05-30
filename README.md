@@ -1,4 +1,4 @@
-#Responsive Portfolio Website Alexa
+#Responsive Portfolio Website Alexia
 
 ###Responsive Personal Portfolio Website Using HTML CSS & JavaScript
 - Smooth scrolling in each section.
